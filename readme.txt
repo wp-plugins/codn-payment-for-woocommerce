@@ -1,7 +1,7 @@
 === CoDN Payment Module for WooCommerce ===
 Contributors: codnusantara.com Development Team
 Donate link: 
-Tags: Woo Commerce ,CoDN , Payment , Payment Module 
+Tags: Woo Commerce ,codn ,CoDN ,Payment ,Payment Module 
 Requires at least: 3.0.1
 Tested up to: 4.2
 Stable tag: 4.3

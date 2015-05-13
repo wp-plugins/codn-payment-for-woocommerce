@@ -32,6 +32,8 @@ Please upgrade to the latest version
 
 == Screenshots ==
 
+No Screenshot
+
 == Changelog ==
 
 = 1.0 =

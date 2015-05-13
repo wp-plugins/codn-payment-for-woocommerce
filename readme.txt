@@ -12,7 +12,7 @@ this is an add-on for Woo Commerce plugin where user can add codnusantara.com as
 
 == Description ==
 
-This plugin is an add-on for Woo Commerce plugin. If you have an account on codnusantara.com and want to use it for your commerce , this is the plugin that you need.
+This plugin is an add-on for Woo Commerce plugin. If you have an account on codnusantara.com (Cashless on Delivery) and want to use it for your commerce , this is the plugin that you need.
 Just simply activate it , insert your CoDN account information and you are good to go.
 
 == Installation ==

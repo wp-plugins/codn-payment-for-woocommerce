@@ -184,7 +184,7 @@ function woocommerce_codn_init() {
                 </script>
             <?php }, 20);
             
-            echo '<img src="img.png" style="cursor:pointer;margin:auto;display:block;" class="codn_button" codn_data="'.$data.'" codn_signature="'.$signature.'">';
+            echo '<img src="'.plugins_url('pay-now.png',__FILE__).'" style="cursor:pointer;margin:auto;display:block;" class="codn_button" codn_data="'.$data.'" codn_signature="'.$signature.'">';
         }
 
         
